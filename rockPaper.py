@@ -1,6 +1,5 @@
 #ROCK PAPER SCISSER GAME
 
-# import random module
 import random
 # print multiline instruction
 # performstring concatenation of string
